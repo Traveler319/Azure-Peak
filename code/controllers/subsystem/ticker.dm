@@ -53,7 +53,7 @@ SUBSYSTEM_DEF(ticker)
 
 	var/late_join_disabled
 
-	var/roundend_check_paused = FALSE
+	var/roundend_check_paused = TRUE
 
 	var/round_start_time = 0
 	var/round_start_irl = 0
