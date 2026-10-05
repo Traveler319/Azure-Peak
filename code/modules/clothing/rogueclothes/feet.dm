@@ -1030,4 +1030,3 @@
 /obj/item/clothing/shoes/roguetown/rosa/ten
 	name = "stately shoes"
 	icon_state = "rosashoes10"
-
